@@ -1,4 +1,4 @@
 LetsTryToMod
 ============
 
-Learning Java, that pretty much sums it up
+Learning Java, that pretty much sums it up.
